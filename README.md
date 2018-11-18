@@ -3,5 +3,5 @@ Scrapes job postings for AI roles, makes the results searchable
 
 Developers:
 
-* Giorgis, Johannes
-* Key, Andrew
+* [Giorgis, Johannes](https://github.com/johannesgiorgis)
+* [Key, Andrew](https://github.com/redpanda-ai)
